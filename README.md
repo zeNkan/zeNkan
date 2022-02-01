@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lars Backman and I work as a Security Engineer
+- 👀 Infrastructure and Security are my things
+- 🌱 I’m currently learning all things Hashicorp
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @backmanfyi on twitter
